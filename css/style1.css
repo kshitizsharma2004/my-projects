@@ -1,0 +1,30 @@
+h1{
+    background-color: gray;
+    height: 300px;
+    width: 400px;
+    /* border-width: 5px;
+    border-style: solid;
+    border-color: green; */
+    border: 2px solid blue;
+    padding: 15px;
+  margin: 30px;
+  border-top: solid red;
+  border-right: solid gray;
+padding-top: 30px;
+padding-left: 30px;
+padding-bottom: 5px;
+margin-top: 50px;
+border-radius: 50px;
+
+
+
+}
+h2{
+    background-color: yellow;
+    border: solid green;
+}
+p{
+    border: solid 3px green;
+    padding: 20px;
+    margin: 50px;
+}
