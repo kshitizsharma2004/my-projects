@@ -1,0 +1,66 @@
+/* h1{
+    background-color: aqua;
+}
+.class{
+    background-color: green;
+}
+#id{
+    background-color: gray;
+} */
+ /* h1{
+    background-color: gray;
+ }
+ h2{
+    background-color: gray !important;
+ } */
+
+
+ /* h2{
+    background-color: green;
+    position: relative;
+    left: 200px;
+    top: 100px;
+
+ } */
+ /* h1{
+    background-color: yellow;
+    position: fixed;
+    /* position: fixed;  for nav bar yeh fixed kar deta hai */
+    /* top: 0px;
+    left: 250px; */
+
+ /* } */
+ /* h1{
+    background-color: yellow;
+    position: sticky;
+    top: 10px;
+ }
+ h3{
+    background-color: aqua;
+    position: absolute;
+    left: 100px;
+    z-index: 10px;
+
+ } */
+
+/* #div{
+    background-color: white;
+    height: 200px;
+    width: 300px;
+}
+.circle{
+    height: 100px;
+    width: 100px;
+    background-color: red;
+    border-radius: 50px;
+    position: absolute;
+    left: 100px;
+    top: 50px;
+
+} */
+
+.class{
+    height: 200px;
+    width: 300px;
+    background-color: yellow;
+}
